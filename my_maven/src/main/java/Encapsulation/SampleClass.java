@@ -7,7 +7,7 @@ public class SampleClass {
 		EncapClass ob=new EncapClass();//here we are using aggregation
 		ob.settermethod(25, "appu");
 		ob.gettermethod();
-
+System.out.println("git");
 	}
 
 }

@@ -8,6 +8,8 @@ public class SampleClass {
 		ob.settermethod(25, "appu");
 		ob.gettermethod();
 System.out.println("git");
+
+
 	}
 
 }
